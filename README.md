@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Neutron-Inv
-- 👀 I’m interested in web development
+- 👀 I’m interested in Back-End Development
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on web apps using php, Javascript, Html and css
-- 📫 How to reach me through the mail : Jackomega.idnoble@gmail.co.
+- 📫 How to reach me through the mail : Jackomega.idnoble@gmail.com
 
 
 <!---
